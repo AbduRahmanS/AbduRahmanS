@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning Flutter/Dart for my personal projects
 - 💞️ I’m looking to collaborate on mobile developpement with Flutter and also in need of a mentor
 - 📫 How to reach me:
-      e-mail : abdrahaman.dev@gmail.com
-      Phone : +223 71713782
-      LinkedIn : Abdrahamane Sarambounou
-      Twitter : @AbduRahmanSb
-      Instagram : abdurahman.sb
+-     e-mail : abdrahaman.dev@gmail.com
+-     Phone : +223 71713782
+-     LinkedIn : Abdrahamane Sarambounou
+-     Twitter : @AbduRahmanSb
+-     Instagram : abdurahman.sb
       
 
 <!---
