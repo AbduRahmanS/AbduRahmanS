@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @AbduRahmanS I'm a software engineer student 
-- 👀 I’m interested in Web and mobile app devellopment, AI, machine learning, cloud computing and cryptocurrencies.
-- 🌱 I’m currently learning Flutter/Dart for my personal projects
-- 💞️ I’m looking to collaborate on mobile developpement with Flutter and also in need of a mentor
+- 👋 Hey, I’m @AbduRahmanS I'm a software engineer, DevOps and Cloud enthusiast.
+Beeing passionate about computer science and technology, I enjoy developing software and cloud applications using microservices and serverless architectures. I am constantly exploring new technologies and approaches to problem solving and building solutions that can have a positive impact on people's lives.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurahmans)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 AbduRahmanS/AbduRahmanS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
