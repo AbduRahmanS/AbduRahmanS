@@ -6,4 +6,3 @@ Beeing passionate about computer science and technology, I enjoy developing soft
 AbduRahmanS/AbduRahmanS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/AbduRahman"><img src="https://api.daily.dev/devcards/165857c9b72e40518f9b9b0a8f555047.png?r=fqw" width="400" alt="Abdrahamane Sarambounou's Dev Card"/></a>
